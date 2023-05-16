@@ -3,6 +3,7 @@
 ## Introduction:
 
 Fashion mnist model with accuracy 91%
+Metrics: Accuracy
 
 ## Datasets:
 
